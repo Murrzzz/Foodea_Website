@@ -200,6 +200,12 @@ select:focus {
     border: 1px solid #ff0000;
 }
 
+button {
+    padding: 13px 5px;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 69%;
+}
+
 .next:link, .next:visited {
     background-color: #F54748;
     color: white;
